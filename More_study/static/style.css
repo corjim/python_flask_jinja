@@ -1,0 +1,25 @@
+ 
+body {
+    padding: 0;
+    margin: 0;
+    font-size: 2rem;
+    background: teal;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    color: #343;
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+button{
+    align-self: center;
+    border-radius: 5px;
+    background: rgb(97, 158, 158);
+}
